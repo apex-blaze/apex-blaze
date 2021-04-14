@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritish Sehgal</h1>
 <h3 align="center">A Web Dev Enthusiast From India</h3>
-<img align="right" alt="gojo-satoru" height="200" src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif">
+<img align="right" alt="gojo-satoru" height="300" src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif">
 
 - 🔭 I’m currently working on **React Native mobile application**
 
