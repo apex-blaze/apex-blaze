@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Braille OCR**
 
-- 🌱 I’m currently using **Firebase**
+- 🌱 I’m currently using **Tesseract.js**
 
 - 💬 Ask me about **Javascript, React and Express**
 
